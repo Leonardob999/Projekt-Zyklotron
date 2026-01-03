@@ -2,7 +2,7 @@
 
 A brief description of what this project does and who it's for
 
-## Unser [Github] https://github.com/Leonardob999/Projekt-Zyklotron
+## Unser [Github] (https://github.com/Leonardob999/Projekt-Zyklotron)
 
 ## Aufbau
 12V an den vorgesehenen Anschlüssen anschließen. 
