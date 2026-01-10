@@ -13,7 +13,7 @@ Durch drehen des Drehknopfs kann man die Seite die auf den Display angezeigt wir
 
 ## Bilder
 
-//![Logo](./Pictures/Zyklotron_gesamt.jpeg)
+![Logo](./Pictures/Zyklotron_gesamt.jpeg)
 
 ## Autoren
 
