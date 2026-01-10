@@ -21,8 +21,8 @@ Durch drehen des Drehknopfs kann man die Seite die auf den Display angezeigt wir
 - [@Fl4SH3Z](https://www.github.com/Fl4SH3Z)
 - [@Danieldev1804](https://www.github.com/Danieldev1804)
 - [@Leonardob999](https://www.github.com/Leonardob999)
-- [@Amar]
-- [@David]
+- @Amar
+- @David
 
 ## Quellen
 Unsere Zyklotron Nachbildung wurde inspiriert durch ein Video von [@Marcin Poblocki](https://www.youtube.com/watch?v=sm_-i4a_vSU)
