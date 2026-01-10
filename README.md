@@ -1,6 +1,6 @@
 # Projekt-Zyklotron
 
-Das ist unser Versuch eine eine Modell des im Cern betrieenen Zyklotrons zu bauen. Unsere Nachbildung nutzt magnetische Felder um eine Magnetkugel anzutreiben. In diesem Github ist alles was ihr braucht um es zu benutzen und auch nachzubauen.
+Das ist unser Versuch eine eine Modell des im Cern betrienen Zyklotrons zu bauen. Unsere Nachbildung nutzt magnetische Felder um eine Magnetkugel anzutreiben. In diesem Github ist alles was ihr braucht um es zu benutzen und auch nachzubauen.
 
 ## Unser [Github](https://github.com/Leonardob999/Projekt-Zyklotron)
 
